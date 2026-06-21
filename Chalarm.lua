@@ -2,8 +2,27 @@ local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
 local Foods = {
-    "Banana","Cave Mushroom","Cosmic Fruit","Volcanic Fruit","Heart Chocolate","Bloodmoon Grape","Tuna Fish","Dog Treat","Taco","Alien Fruit","Chocolate Egg","Radioactive Strawberry","Cotton Candy","Waffle","Star",
-    "Bag Of Worms","Pepper","Abyss Crystal","Steak","Rocky Cookie","Mango"
+    "Banana",
+    "Cave Mushroom",
+    "Cosmic Fruit",
+    "Volcanic Fruit",
+    "Heart Chocolate",
+    "Bloodmoon Grape",
+    "Tuna Fish",
+    "Dog Treat",
+    "Taco",
+    "Alien Fruit",
+    "Chocolate Egg",
+    "Radioactive Strawberry",
+    "Cotton Candy",
+    "Waffle",
+    "Star",
+    "Bag Of Worms",
+    "Pepper",
+    "Abyss Crystal",
+    "Steak",
+    "Rocky Cookie",
+    "Mango"
 }
 
 local LocalPlayer = Players.LocalPlayer
