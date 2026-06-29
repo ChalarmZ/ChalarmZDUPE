@@ -22,7 +22,8 @@ local Foods = {
     "Abyss Crystal",
     "Steak",
     "Rocky Cookie",
-    "Mango"
+    "Mango",
+    "Backrooms Coffe"
 }
 
 local LocalPlayer = Players.LocalPlayer
