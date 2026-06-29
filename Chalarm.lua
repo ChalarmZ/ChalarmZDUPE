@@ -23,7 +23,7 @@ local Foods = {
     "Steak",
     "Rocky Cookie",
     "Mango",
-    "Backrooms Coffe"
+    "Backrooms Coffee"
 }
 
 local LocalPlayer = Players.LocalPlayer
